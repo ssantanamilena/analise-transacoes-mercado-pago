@@ -1,0 +1,13 @@
+﻿id_transacao,data,cliente_id,cidade,estado,valor,forma_pagamento,status,categoria
+1,2026-01-02,101,São Paulo,SP,250.90,credito,aprovado,eletronicos
+2,2026-01-03,102,Campinas,SP,89.90,pix,aprovado,moda
+3,2026-01-03,103,Belo Horizonte,MG,450.00,credito,aprovado,eletronicos
+4,2026-01-04,104,Rio de Janeiro,RJ,39.90,boleto,recusado,livros
+5,2026-01-05,101,São Paulo,SP,120.00,pix,aprovado,casa
+6,2026-01-05,105,Curitiba,PR,780.50,credito,aprovado,eletronicos
+7,2026-01-06,106,Salvador,BA,59.90,pix,aprovado,moda
+8,2026-01-07,107,Fortaleza,CE,310.00,credito,recusado,eletronicos
+9,2026-01-07,108,São Paulo,SP,45.00,boleto,aprovado,livros
+10,2026-01-08,109,Belo Horizonte,MG,999.99,credito,aprovado,eletronicos
+11,2026-01-09,102,Campinas,SP,150.00,pix,aprovado,casa
+12,2026-01-10,110,Rio de Janeiro,RJ,220.00,credito,aprovado,moda
